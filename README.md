@@ -18,3 +18,9 @@ dplyr
 haven
 mice
 ggplot2
+
+Conclusion
+This project demonstrates a comprehensive approach to handling NHANES data, from loading and cleaning to imputation and analysis. By leveraging R and various libraries, we ensure the data is ready for meaningful analysis and insights.
+
+Acknowledgments
+Special thanks to the creators and maintainers of the RNHANES, mice, and other R libraries used in this project.
